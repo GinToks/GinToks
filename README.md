@@ -6,12 +6,13 @@
 ---
 
 ## 👤 About Me
-┌─────────────────────────────────────────┐
-│  🚀 Passionate about systems programming │
-│  💡 Exploring low-level languages        │
-│  🐧 Linux enthusiast                     │
-│  📚 Always learning                      │
-└─────────────────────────────────────────┘
+
+<p align="center">
+  🚀 Passionate about systems programming<br>
+  💡 Exploring low-level languages<br>
+  🐧 Linux enthusiast<br>
+  📚 Always learning
+</p>
 
 I'm a programming enthusiast focused on modern systems languages. Currently diving deep into **Nim** and exploring the ecosystem of efficient, compiled languages.
 
@@ -23,26 +24,31 @@ I'm a programming enthusiast focused on modern systems languages. Currently divi
   <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=1a1a1a&labelColor=1a1a1a" alt="Nim">
   <img src="https://img.shields.io/badge/Odin-3882D2?style=for-the-badge&logo=odin&logoColor=white&labelColor=1a1a1a" alt="Odin">
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black&labelColor=1a1a1a" alt="Zig">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a" alt="Linux">
 </p>
 
 ---
 
-## 🎯 Currently Learning
-focus: Nim programming language
-status: In Progress ████░░░░░░ 40%
-goal: Build efficient systems software
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GinToks&show_icons=true&theme=radical&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinToks&layout=compact&theme=radical&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GinToks&theme=radical&hide_border=true&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak">
+</p>
 
 ---
 
-## 💻 Activity
+## 🎯 Currently Learning
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinToks&theme=radical" alt="Profile Details">
+  <b>Focus:</b> Nim programming language<br>
+  <b>Status:</b> In Progress<br>
+  <b>Goal:</b> Build efficient systems software
 </p>
 
 ---
@@ -63,8 +69,6 @@ goal: Build efficient systems software
 </p>
 
 <p align="center">
-  <samp>
-    Made with 💚 by <b>GinToks</b><br>
-    <i>"Code is poetry written in logic"</i>
-  </samp>
+  <i>"Code is poetry written in logic"</i><br>
+  Made with 💚 by <b>GinToks</b>
 </p>
