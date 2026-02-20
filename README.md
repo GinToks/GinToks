@@ -32,22 +32,6 @@ I'm a programming enthusiast focused on modern systems languages. Currently divi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GinToks&show_icons=true&theme=radical&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinToks&layout=compact&theme=radical&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GinToks&theme=radical&hide_border=true&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak">
-</p>
-
----
-
 ## 🎯 Currently Learning
 focus: Nim programming language
 status: In Progress ████░░░░░░ 40%
