@@ -118,7 +118,7 @@ Unlike mainstream developers, I'm interested in the **foundations** — memory m
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-💚-00ff88?style=flat-square" alt="Made with love">
   <br><br>
-  <b>GinToks</b> © 2025 | Systems Programming Enthusiast
+  <b>GinToks</b> © 2026 | Systems Programming Enthusiast
   <br>
   <i>"The best way to predict the future is to compile it."</i>
 </p>
